@@ -309,10 +309,10 @@ $currentYear  = date('Y');   // 2026
                     <br>
                     <ul>
 
-                        <li class="des">For Online Payment send Amount on Meezan bank Account # (01300103267438) Title
-                            (BAITUL KHAIR ACADEMY)
+                        <li class="des">For Online Payment send Amount on Meezan bank Account # (XXXXXXX) Title
+                            (XXXXXXXX)
                         </li>
-                        <li class="des">Share payment screenshot along with Student's GR NO on 03359999625
+                        <li class="des">Share payment screenshot along with Student's GR NO on XXXXXXXXXX
                         </li>
                         <li class="des">We confirm receiving accordingly.
                         </li>
@@ -392,10 +392,10 @@ $currentYear  = date('Y');   // 2026
                     <br>
                     <ul>
 
-                        <li class="des">For Online Payment send Amount on Meezan bank Account # (01300103267438) Title
+                        <li class="des">For Online Payment send Amount on Meezan bank Account (XXXXXXXXXXX) Title
                             (BAITUL KHAIR ACADEMY)
                         </li>
-                        <li class="des">Share payment screenshot along with Student's GR NO on 03359999625
+                        <li class="des">Share payment screenshot along with Student's GR NO on XXXXXXXXX
                         </li>
                         <li class="des">We confirm receiving accordingly.
                         </li>
